@@ -147,10 +147,6 @@ article .depression{
     font-weight: 500;
 }
 
-h3{
-
-}
-
 
 body{
     background: linear-gradient(to right,#38074b,#a48bad);
@@ -163,7 +159,7 @@ body{
     border: 2px solid rgb(17, 16, 16);
     padding: 10px;
     text-align: center;
-    background-color: rgb(160, 142, 120);
+    background-color: rgb(143, 125, 104);
 
   
 }
